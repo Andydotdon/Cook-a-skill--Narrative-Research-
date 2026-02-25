@@ -149,8 +149,6 @@ The two skills are independent but complementary. For highest quality:
 business-idea-plan/
 ├── SKILL.md              # Main skill instructions
 ├── SPEC-Biz-Plan.md       # This file
-└── evals/
-    └── evals.json        # Test cases
 ```
 
 No scripts, references, or assets needed — fully self-contained.
