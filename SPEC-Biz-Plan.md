@@ -148,7 +148,7 @@ The two skills are independent but complementary. For highest quality:
 ```
 business-idea-plan/
 ├── SKILL.md              # Main skill instructions
-├── SPEC_SUMMARY.md       # This file
+├── SPEC-Biz-Plan.md       # This file
 └── evals/
     └── evals.json        # Test cases
 ```
