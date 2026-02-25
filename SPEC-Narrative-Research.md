@@ -146,7 +146,7 @@ Produces a **thesis-driven narrative research document** that validates whether 
 ```
 narrative-research/
 ├── SKILL.md              # Main skill instructions
-├── SPEC_SUMMARY.md       # This file — human-readable spec overview
+├── SPEC-Narrative-Research.md       # This file — human-readable spec overview
 └── evals/
     └── evals.json        # Test cases for validation
 ```
