@@ -147,7 +147,6 @@ Produces a **thesis-driven narrative research document** that validates whether 
 narrative-research/
 ├── SKILL.md              # Main skill instructions
 ├── SPEC-Narrative-Research.md       # This file — human-readable spec overview
-└── evals-Narrative-Research.md
 ```
 
 **No scripts/, references/, or assets/ directories needed** — the skill is self-contained in SKILL.md with zero external dependencies.
